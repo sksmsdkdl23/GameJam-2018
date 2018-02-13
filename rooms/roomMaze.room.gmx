@@ -209,7 +209,6 @@
     <instance objName="obj_box_pixel" x="960" y="384" name="inst_548E3A99" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_box_pixel" x="960" y="448" name="inst_7ECA98DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_box_pixel" x="960" y="512" name="inst_E0AC0F30" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_box_pixel" x="960" y="576" name="inst_A072D184" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_box_pixel" x="960" y="640" name="inst_8A42D6D2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_box_pixel" x="832" y="640" name="inst_1E7BCF05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_box_pixel" x="896" y="640" name="inst_05AF6B3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -260,6 +259,7 @@
     <instance objName="object6" x="512" y="480" name="inst_5CD09BC5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object6" x="288" y="96" name="inst_67529454" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object4" x="32" y="672" name="inst_3E6645B4" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_floor" x="960" y="576" name="inst_9F0B46EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

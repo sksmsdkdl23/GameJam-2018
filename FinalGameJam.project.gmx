@@ -110,7 +110,6 @@
     <script>scripts\scr_playerStep.gml</script>
     <script>scripts\scr_poop_tem.gml</script>
     <script>scripts\scr_spinningBlade.gml</script>
-    <script>scripts\script3.gml</script>
     <script>scripts\scr_poop.gml</script>
     <script>scripts\scr_movement.gml</script>
   </scripts>

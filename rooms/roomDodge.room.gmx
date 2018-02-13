@@ -55,6 +55,8 @@
     <instance objName="obj_highscore" x="1728" y="64" name="inst_1EF41DDC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_stickman" x="960" y="896" name="inst_469B24B5" locked="0" code="" scaleX="3" scaleY="3" colour="4294967295" rotation="0"/>
     <instance objName="obj_poop" x="640" y="-64" name="inst_BD959C40" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="bossObject" x="128" y="-320" name="inst_5D5EDB8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_endgame" x="-96" y="320" name="inst_6EDEBCB1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

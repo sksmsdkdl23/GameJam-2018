@@ -25,9 +25,11 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>audio_stop_sound(snd_bgm);
-audio_stop_sound(stickman_resolution);
-room_restart();
+            <string>if (score &gt;= 500){
+    audio_stop_sound(stickman_pixelated);
+    audio_stop_sound(stickman_resolution);
+    room_restart();
+}
 </string>
           </argument>
         </arguments>
@@ -75,10 +77,13 @@ room_goto(roomStart);
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_set_color(c_black);
-draw_set_font(f_endgame);
-draw_text(room_width / 2 - 325, room_height / 2 - 75, 
-    "Congratulations! Press " + "R" + " to restart! Press N to go next!");
+            <string>if (score &gt;= 500)
+{
+    draw_set_color(c_black);
+    draw_set_font(f_endgame);
+    draw_text(room_width / 2 - 345, room_height / 2 - 75, 
+        "Congratulations! Press " + "R" + " to restart! Press N to go next!");
+}
 </string>
           </argument>
         </arguments>
