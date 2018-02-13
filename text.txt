@@ -1,0 +1,7 @@
+This was first time using Game Maker for most of the members in our group and we wanted to learn it through this GameJam. We wanted to make a game that was pixelated since the main theme was Resolution. 
+Our game has three sub-games in it. When the user goes into any of the rooms, they will be led to the sub-games and have to beat it. 
+As stated above, we used Game Maker and each of our group members built their own simple pixelated games that we wanted to make. We started by testing out the program and learning and modified the game itself as we were making it.
+The biggest challenge for us was that we did not know how to use Game Maker at all. It was very fun learning it and interesting. Although Game Maker is easy to use, we felt that it was less powerful than other programs. 
+We are proud that we have a made a game in limited time with a program we have never used before.
+Through this, we learned how to use Game Maker and how to make games.
+We will definitely polish it more later.
