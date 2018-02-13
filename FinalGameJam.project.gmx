@@ -179,7 +179,6 @@
     <room>rooms\roomDodge</room>
     <room>rooms\roomBlade</room>
     <room>rooms\room0</room>
-    <room>rooms\room5</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

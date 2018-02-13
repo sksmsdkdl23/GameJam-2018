@@ -26,6 +26,7 @@
           <argument>
             <kind>1</kind>
             <string>audio_play_sound(stickman_pixelated, 0, 1);
+footstep_index = 0;
 </string>
           </argument>
         </arguments>
