@@ -94,7 +94,6 @@
     <background>background\background_grassland</background>
     <background>background\background0</background>
     <background>background\background1</background>
-    <background>background\BloodTile</background>
     <background>background\bloody</background>
     <background>background\Tile</background>
     <background>background\TileBackground</background>
@@ -136,7 +135,6 @@
     <object>objects\obj_door_blade</object>
     <object>objects\obj_door_dodge</object>
     <object>objects\obj_end_message</object>
-    <object>objects\credit</object>
     <object>objects\obj_end_message_blades</object>
     <object>objects\obj_endgame</object>
     <object>objects\obj_exit</object>
@@ -164,8 +162,6 @@
     <object>objects\object1</object>
     <object>objects\object4</object>
     <object>objects\object6</object>
-    <object>objects\object8</object>
-    <object>objects\object34</object>
     <object>objects\objecttemp</object>
     <object>objects\spinning_blade_object_x</object>
     <object>objects\spinning_blade_object_y</object>
