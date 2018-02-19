@@ -300,8 +300,8 @@ if (keyboard_check(vk_down)) {
             <string>room_goto(roomStart);
 audio_stop_sound(horror_resolution);
 var swirls;
-swirls = instance_create(obj_door_blade.x, obj_door_blade.y, obj_swirl);
-swirls.image_speed = 0.1;
+//swirls = instance_create(obj_door_blade.x, obj_door_blade.y, obj_swirl);
+//swirls.image_speed = 0.1;
 instance_destroy(obj_door_blade);
 room_num = 1;
 </string>
