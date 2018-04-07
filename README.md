@@ -2,7 +2,7 @@
 
 Created using GameMaker 1.4
 
-Created with Ryan Cha, Ching Choi
+Created By Ryan Cha, Ching Choi, Philip Choi
 
 Music by Jeffrey Yiu, SFX by Ian Buchanan
 
